@@ -4,7 +4,7 @@ from distutils.core import setup
 
 setup(
     name='scrapy_og',
-    version='1.0.0',
+    version='1.0.1',
     description='Scrapy spiders for oil gas visualizer',
     author='Andrew Montes',
     author_email='andrewmontes87@gmail.com',    
